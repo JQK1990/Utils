@@ -1,0 +1,10 @@
+E:\projects\Helper\Utils\bin\Debug\Utils.dll
+E:\projects\Helper\Utils\bin\Debug\Utils.pdb
+E:\projects\Helper\Utils\bin\Debug\NPOI.dll
+E:\projects\Helper\Utils\bin\Debug\NPOI.OOXML.dll
+E:\projects\Helper\Utils\bin\Debug\NPOI.OpenXml4Net.dll
+E:\projects\Helper\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\projects\Helper\Utils\obj\Debug\Utils.dll
+E:\projects\Helper\Utils\obj\Debug\Utils.pdb
+E:\projects\Helper\Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\projects\Helper\Utils\bin\Debug\NPOI.OpenXmlFormats.dll
